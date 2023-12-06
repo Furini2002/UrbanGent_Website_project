@@ -2,6 +2,13 @@
 
 Bem-vindo ao repositório do UrbanGent, um projeto acadêmico fictício de e-commerce de moda masculina desenvolvido como parte da disciplina de Tecnologias para Web II. Este projeto visa aprimorar habilidades específicas, especialmente em PHP, HTML, CSS, JavaScript, SQL e Bootstrap, além de proporcionar uma experiência prática na criação de um site de comércio eletrônico.
 
+## Teste o UrbanGent!
+
+- **Acesse o [UrbanGent](https://urbangent.000webhostapp.com/index.php) agora!**
+  - Utilize as seguintes credenciais para teste:
+    - **E-mail:** usuario.teste@gmail.com
+    - **Senha:** 123
+
 ## Funcionalidades
 
 - **Listagem e Exclusão de Categorias:**
